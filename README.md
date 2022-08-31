@@ -1,3 +1,3 @@
-# pokedex-react
+# Pokedex React + Pokeapi
 
-Api -> https://pokeapi.co/
+Pokeapi -> https://pokeapi.co/
